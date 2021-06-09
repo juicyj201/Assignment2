@@ -1,0 +1,4 @@
+------------------------------Supplier--------------------------------
+ID	Name			Product Type	Description
+----------------------------------------------------------------------
+S290 	MotorMania          	Hyundai   	compact budget 
